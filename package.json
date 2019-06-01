@@ -7,6 +7,11 @@
         "name": "Martucha",
         "email": "martastrugaa@gmail.com",
         "web": ""
+      },
+      {
+        "name": "Kondzio",
+        "email": "contact@realhe.ro",
+        "web": ""
       }
     ],
     "devDependencies": {
