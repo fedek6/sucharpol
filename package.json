@@ -1,0 +1,34 @@
+{
+    "name": "sucharpol",
+    "description": "Mega ultra zajebista stronka o sucharkach!",
+    "version": "1.0.0.",
+    "maintainers": [
+      {
+        "name": "Martucha",
+        "email": "martastrugaa@gmail.com",
+        "web": ""
+      }
+    ],
+    "devDependencies": {
+        "grunt": "^1.0.4",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-cssmin": "^3.0.0",
+        "grunt-contrib-imagemin": "^3.1.0",
+        "grunt-contrib-sass": "^1.0.0",
+        "grunt-contrib-uglify": "^4.0.1",
+        "grunt-favicons": "^0.8.0",
+        "grunt-includes": "^1.1.0",
+        "grunt-postcss": "^0.9.0",
+        "grunt-replace": "^1.0.1",
+        "grunt-responsive-images": "^1.10.1"
+    },
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "jquery": "^2.2.4",
+        "jquery.typographer": "git+https://github.com/fedek6/jquery.typographer.git",
+        "js-cookie": "^2.2.0",
+        "popper.js": "^1.15.0",
+        "wowjs": "^1.1.3"
+    }
+}
