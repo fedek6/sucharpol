@@ -1,0 +1,13 @@
+/**
+ * Dla urządzeń mobilnych
+ */
+
+
+/**
+ * Dla pozostałych urządzeń
+ */
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    @import "responsive/md.scss";
+}
