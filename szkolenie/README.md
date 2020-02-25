@@ -8,6 +8,6 @@
                                     | |            
                                     |_|            
 ```
-## Spis treści
+# Spis treści
 
-1. [Teoria wielkiego suchara (czyli po kolei co gdzie i jak).](lekcja-1/README.md)
+1. [Teoria Wielkiego Suchara (czyli wszystko od czegoś się zaczyna),](lekcja-1/README.md)
