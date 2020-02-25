@@ -112,3 +112,5 @@ Kod JS zasadniczo można umieścić wszędzie tam gdzie CSS.
 * W tagu HTML.
 
 ---
+
+Więcej i straszinej w lekcji 2! :eyes:
