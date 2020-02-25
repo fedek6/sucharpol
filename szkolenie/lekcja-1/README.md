@@ -113,4 +113,15 @@ Kod JS zasadniczo można umieścić wszędzie tam gdzie CSS.
 
 ---
 
-Więcej i straszinej w lekcji 2! :eyes:
+## Praca domowa
+
+Wyświetl wycentrowany (hotyzontalnie i wertykalnie) obrazek kota na czarnym tle. Ustaw tytuł strony na _Kotmageddon_.
+
+W folderze pomoce jest czysty szablon html gotowy do uzpełenienia - uzupełnij go zatem kotem.
+
+W notatkach znajdziesz ciekowostki, które wyszły w trakcie szkolenia. 
+
+[Notatki](notatki.md)
+
+Więcej i straszniej w lekcji 2! :eyes:
+
